@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192928321645",
+    "project_id": "vmap-977ab",
+    "storage_bucket": "vmap-977ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192928321645:android:76035f98a3d650cb79af64",
+        "android_client_info": {
+          "package_name": "com.example.vms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192928321645-5kb6ncufphh5m8qbcoa6mlkmfb4jd4ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNvM-ksvipU1EMAZBlYIylsdZS5hr1yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192928321645-5kb6ncufphh5m8qbcoa6mlkmfb4jd4ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
